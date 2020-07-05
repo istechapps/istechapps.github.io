@@ -2,4 +2,4 @@
 
 - [Eğitici Balonlar Oyun Seti](https://play.google.com/store/apps/details?id=com.istech.egiticibalonlar)
 
-![icon](https://lh3.googleusercontent.com/KgMSwkZKR5JTAqg7f8rJpOLNHr-LNMtGtpBGDPtaoC6XaYdEWVthaXEC4iI8mopJSqro=s180-rw)
+[icon](https://lh3.googleusercontent.com/KgMSwkZKR5JTAqg7f8rJpOLNHr-LNMtGtpBGDPtaoC6XaYdEWVthaXEC4iI8mopJSqro=s180-rw)
